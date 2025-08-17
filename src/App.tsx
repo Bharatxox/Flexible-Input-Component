@@ -3,8 +3,8 @@ import InputField from "./components/InputField";
 import ghost from "./assets/ghost.svg";
 import outline from "./assets/outline.svg";
 import filled from "./assets/filled.svg";
-import sun from "./assets/sun.svg";
-import moon from "./assets/moon.svg";
+// import sun from "./assets/sun.svg";
+// import moon from "./assets/moon.svg";
 
 const App: React.FC = () => {
   const options = [
