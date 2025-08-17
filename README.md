@@ -6,6 +6,12 @@ This project showcases a highly **flexible and customizable React input componen
 
 ---
 
+## Live Demo
+
+You can see a live version of this flexible input component in action here:
+
+🔗 <https://flexible-input-component-psi.vercel.app/>
+
 ## Key Features
 
 The `InputField` component offers a wide range of features to cover diverse UI/UX requirements:
